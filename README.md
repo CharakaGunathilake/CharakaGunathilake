@@ -16,8 +16,7 @@
 
   <div align="center">
   <h2> My Contributions </h2>
-  
- 
+![snake gif](https://github.com/CharakaGunathilake/CharakaGunathilake/blob/output/github-snake-dark.svg) 
   
 
 </div>
