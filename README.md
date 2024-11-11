@@ -16,7 +16,7 @@
 
   <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=CharakaGunathilake&theme=blue-green" height="192px"/>
+    <img alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=CharakaGunathilake&theme=great-gatsby" height="192px"/>
   </a>
   <h2> My Contributions </h2>
 ![snake gif](https://github.com/CharakaGunathilake/CharakaGunathilake/blob/output/github-snake-dark.svg) 
